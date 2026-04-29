@@ -1,61 +1,79 @@
-# 👋 Hello there! I'm Muhammad Asif
+# 👋 Hi, I'm Muhammad Asif
 
-A passionate **Generative AI / Machine Learning Engineer** with a solid foundation in **LLMs, NLP, Computer Vision**, and backend deployment. I thrive on building intelligent systems that drive real-world impact, from fine-tuning language models to deploying production-ready APIs.
+AI Engineer focused on building **production-ready Generative AI systems**, with hands-on experience in **RAG pipelines, LLM integration, and backend AI infrastructure**.
 
 ---
 
 ## 🚀 About Me
 
-- 💼 Currently working as a **Generative AI Engineer** at Logixsy Technologies.
-- 🤖 Building cutting-edge **chatbots** with LLMs, LangChain, Crew.ai, and vector databases.
-- 📦 Deploying models via APIs, integrating them into full-stack systems.
-- 🧠 Always exploring the latest in **LLMs** (like LLaMA 3), **prompt engineering**, and **MLOps**.
-- 🌱 Learning more about **scalable model serving** and **efficient fine-tuning** techniques.
+I work on designing and deploying end-to-end AI systems that go beyond prototypes and operate in real-world environments.
+
+- 🔧 Building **RAG-based systems** for document understanding and retrieval
+- 🤖 Developing **agentic AI workflows** using LangGraph and LangChain
+- 🧠 Integrating **knowledge graphs & ontologies** to improve reasoning and retrieval
+- ⚙️ Deploying scalable AI services using **FastAPI, Docker, and modern ML infrastructure**
+- 📊 Optimizing systems for **latency, reliability, and real-world usage**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**  
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python) ![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=c%2B%2B)  
-**AI/ML**  
-![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat&logo=tensorflow) ![LangChain](https://img.shields.io/badge/-LangChain-333?style=flat&logo=data)  
-**Tools & Libraries**  
-Huggingface, FastAPI, LangGraph, CrewAI, OpenCV, Scikit-learn, Pandas, Numpy  
-**Databases**  
-PostgreSQL, MongoDB, ChromaDB, Qdrant, Pinecone  
-**DevOps**  
-Docker, Kubernetes, GitHub Actions  
-**Other**  
-Streamlit, Chainlit, HTML/CSS, JavaScript, REST APIs
+### 🧠 Generative AI
+- LLMs (OpenAI, Anthropic, LLaMA, Mistral)
+- Retrieval-Augmented Generation (RAG)
+- Prompt Engineering & Optimization
+- LLMOps (evaluation, orchestration, monitoring)
+
+### ⚙️ AI Systems & Backend
+- FastAPI, REST APIs
+- LangChain, LangGraph
+- Vector Databases (FAISS, Qdrant, Pinecone)
+- Knowledge Graphs (Neo4j, GraphDB)
+
+### 📦 Infrastructure
+- Docker, Containerization
+- Model Deployment & Monitoring
+- Async Processing & Scalable APIs
 
 ---
 
-## 📊 GitHub Stats
+## 📌 What I’m Currently Focused On
 
-![Asif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fisa712&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fisa712&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 Featured Projects
-
-- **Shelf-DeTech** – Real-time inventory management system using **YOLOv8, PGNet, and CRAFT** for slot detection and product classification.
-- **ML Transfer Agent Prediction** – Extracted named entities from SEC filings and predicted missing agents using clustering & NER.
-- **Liqueous AI Assistant** – GenAI-powered assistant for financial services built with **LangChain + CrewAI**.
-- **SQL-Chatbot Interface** – Natural language to SQL chatbot using **Streamlit, FastAPI, and vector DBs**.
-- **Reitbuzz News Generator** – Multi-topic news generator with **Strapi** + **SerpAPI**.
-- **LLama 3 CodeGen** – Fine-tuned LLama 3 for **Python & Java** code generation tasks.
+- Building **hybrid RAG systems** (vector search + knowledge graphs)
+- Designing **multi-agent AI systems** with real-world use cases
+- Improving **latency, scalability, and reliability** of GenAI pipelines
+- Exploring **secure and robust LLM applications** (prompt injection, guardrails)
 
 ---
 
-## 🌐 Connect With Me
+## 📂 Featured Work
 
-[![LinkedIn](https://img.shields.io/badge/-Muhammad%20Asif-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/muhammad-asif-679238199)  
-📧 asifmaken533@gmail.com  
-🔗 [GitHub](https://github.com/fisa712)
+> *(You should replace these with your actual repos)*
+
+- 🔹 **AI Copilot System (RAG + Agents + Knowledge Graphs)**  
+  End-to-end system for intelligent document analysis using hybrid retrieval and multi-agent workflows.
+
+- 🔹 **Conversational AI with RAG**  
+  LLM-powered chatbot with contextual memory and vector-based retrieval.
+
+- 🔹 **AI Automation Pipelines**  
+  Data extraction, processing, and workflow automation using AI-driven pipelines.
 
 ---
 
-> “The future belongs to those who build it—one prompt, one model, one deployment at a time.”
+## 📫 Connect With Me
 
+- 💼 LinkedIn: https://www.linkedin.com/in/muhammad-asif-679238199  
+- 📧 Email: asifmaken533@gmail.com  
+- 💻 GitHub: https://github.com/fisa712
+
+---
+
+## ⚡ Philosophy
+
+I focus on building AI systems that:
+- Work in **production**, not just demos  
+- Are **scalable, reliable, and efficient**  
+- Combine **LLMs with structured knowledge and backend engineering**  
+
+---
