@@ -50,7 +50,7 @@ I work on designing and deploying end-to-end AI systems that go beyond prototype
 
 > *(You should replace these with your actual repos)*
 
-- 🔹 **AI Copilot System (RAG + Agents + Knowledge Graphs)**  
+<!--- 🔹 **AI Copilot System (RAG + Agents + Knowledge Graphs)**  
   End-to-end system for intelligent document analysis using hybrid retrieval and multi-agent workflows.
 
 - 🔹 **Conversational AI with RAG**  
@@ -58,7 +58,7 @@ I work on designing and deploying end-to-end AI systems that go beyond prototype
 
 - 🔹 **AI Automation Pipelines**  
   Data extraction, processing, and workflow automation using AI-driven pipelines.
-
+-->
 ---
 
 ## 📫 Connect With Me
